@@ -1,0 +1,2 @@
+# Yahoo-Finance-History-Downloader
+The parser that downloads data on the sales volumes of the selected companies' shares from Yahoo Finance (example link https://finance.yahoo.com/quote/QQQ/options?p=QQQ&amp;straddle=true). The input data are the names of the companies and the name of the directory.  It saves the data as a json file with the name containing the date and time of download. The download takes place every 5 minutes.
